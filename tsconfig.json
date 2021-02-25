@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "outDir": "./build",
+      "rootDir": "./",
+      "strict": true,
+      "noImplicitAny": false,
+      "esModuleInterop": true
+    },
+    "files": [
+      "main.ts",
+      "system/modules.ts",
+      "system/gamma.ts"
+    ]
+  }

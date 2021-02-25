@@ -1,0 +1,20 @@
+{
+  "name": "blackburn",
+  "version": "1.0.0",
+  "description": "<img  src=\"https://raw.githubusercontent.com/Iquerno/blackburn/main/LOGO.svg\" align=\"left\"  width=\"192px\"  height=\"192px\"/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iquerno/blackburn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iquerno/blackburn/issues"
+  },
+  "homepage": "https://github.com/Iquerno/blackburn#readme"
+}
